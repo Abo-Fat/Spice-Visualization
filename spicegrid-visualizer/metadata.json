@@ -1,0 +1,5 @@
+{
+  "name": "SpiceGrid Visualizer",
+  "description": "A specialized SPICE netlist visualizer for circuit arrays, featuring interactive schematics, waveform viewing, and parasitic extraction visualization.",
+  "requestFramePermissions": []
+}
